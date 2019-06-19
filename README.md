@@ -1,3 +1,3 @@
 # Classification---Machine-Learning
 
-Autor: Matheus Campos
+Coded by: Matheus Campos
